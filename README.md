@@ -1,1 +1,1 @@
-# yayaluoya 的公共资源仓库
+# yayaluoya/yayaluoya 仓库的资源仓库
